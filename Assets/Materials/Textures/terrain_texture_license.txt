@@ -1,0 +1,2 @@
+"terrain_sample_only.png" is external texture from some Minecraft texture pack!
+Use it only as an reference.
